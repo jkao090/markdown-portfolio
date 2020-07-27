@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Some of my __awesome__ attrubutes are __athletic, funny, and__ smart._
